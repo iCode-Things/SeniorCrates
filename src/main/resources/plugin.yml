@@ -1,0 +1,5 @@
+name: SeniorCrates
+version: '${project.version}'
+main: me.dan.seniorcrates.SeniorCrates
+depend: [ PluginAPI ]
+authors: [ Dan ]
